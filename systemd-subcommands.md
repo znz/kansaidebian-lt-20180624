@@ -46,7 +46,7 @@ Debian 系に慣れているとパッケージインストールで即有効担�
 - /etc 以下: 変更するファイル (例: /etc/systemd/system, /etc/tmpfiles.d)
   - 同名ファイルで完全に上書き
   - Unit名.d/なんとか.conf で追加変更
-- /rum 以下: 動的に生成されるファイル (例: /run/systemd/system, /run/tmpfiles.d)
+- /run 以下: 動的に生成されるファイル (例: /run/systemd/system, /run/tmpfiles.d)
   - init.d 以下から自動生成されるファイルがあった覚えがあるけど最近のだと見当たらなかった
 
 # 設定変更
