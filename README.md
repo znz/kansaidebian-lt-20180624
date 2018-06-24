@@ -1,6 +1,6 @@
 # systemdでよく使うサブコマンド
 
-TODO: スライドの説明
+[第136回関西Debian勉強会 + Linux Kernel 勉強会 LT大会](https://debianjp.connpass.com/event/90376/)での発表資料です。
 
 ## 作者向け
 
